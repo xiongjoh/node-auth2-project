@@ -1,3 +1,4 @@
 .DS_Store
 node_modules/
-.eslinttrc.json
+.eslintrc.json
+users.db3
